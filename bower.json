@@ -1,0 +1,17 @@
+{
+  "name": "e-commercestore",
+  "homepage": "https://github.com/Prathees31/spring-boot-example-project",
+  "authors": [
+    "Prathees31 <prathees.g.s@gmail.com>"
+  ],
+  "description": "Sample E-commerce Store For Pratice",
+  "main": "index",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
